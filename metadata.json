@@ -1,0 +1,8 @@
+{
+  "name": "Abdulaziz AI - Kuchli va Mukammal AI Server",
+  "description": "78-maktab 7-b sinf o'quvchisi Xo'janazarov Abdulaziz tomonidan yaratilgan, ChatGPT va Gemini'dan ustun zamonaviy intellektual chat tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

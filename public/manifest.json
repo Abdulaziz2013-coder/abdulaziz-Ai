@@ -1,0 +1,38 @@
+{
+  "id": "/",
+  "name": "Abdulaziz AI - Online Server",
+  "short_name": "Abdulaziz AI",
+  "description": "78-maktab 7-b sinf o'quvchisi Xo'janazarov Abdulaziz tomonidan yaratilgan onlayn sun'iy intellekt serveri. Barcha telefon va kompyuterlar uchun moslashtirilgan.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#07090e",
+  "theme_color": "#090d16",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
